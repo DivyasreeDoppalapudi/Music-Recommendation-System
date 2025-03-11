@@ -12,4 +12,5 @@ Feature Extraction: Converting processed text into numerical representations usi
 Recommender Model: Implementing a content-based filtering approach to compute similarity scores between music descriptions and recommend songs based on user preferences.
 
 User Interaction: Enabling users to input preferences via keywords or sample video URLs, then ranking and displaying the most relevant music recommendations.
-![SS3](https://github.com/user-attachments/assets/ac9e22c6-a819-46f3-b750-fcb4e49b9d7c)
+
+![SS3 (2)](https://github.com/user-attachments/assets/83da35c2-8f6d-4208-a8d5-43baf176a1b9)
